@@ -1,0 +1,3 @@
+Time taken to read the file: 0.240147 seconds.
+Time taken to sort the file: 2786.940776 seconds.
+Total time taken: 2787.180923 seconds.
